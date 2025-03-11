@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tony-143
 - 👀 I’m interested in Machine Learning , Python Full stack Developer
 - 🌱 I’m currently learning Machine Learning algorithems
-- 💞️ I’m looking to collaborate on Data Science
+- 💞️ I’m looking to collaborate on Data Science, Full Stack Development
 - 📫 How to reach me with mail saiteja084084@gmail.com or mobile no 8555047507
 - 😄 Pronouns: tony , bro , he/him
-- ⚡ Fun fact: no facts
+- ⚡ Fun fact: hardwork + smart work = success
 
 <!---
 tony-143/tony-143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
